@@ -14,7 +14,7 @@ namespace CommicBookGallery.Controllers
         {
             var comicBook = new ComicBook()
             {
-                SeriesTitle = "The amazing Spiderman",
+                SeriesTitle = "The amazing Spider Man",
                 IssueNumber = 700,
                 DescriptionHtml = "<p> Final issue!Witness the final hours of Doctor Octopus'" +
                                 " life and his one, last, great act of revenge!" +
